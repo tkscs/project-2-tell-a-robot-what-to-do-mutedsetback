@@ -1,0 +1,2 @@
+#I would like to make my robot able to map out spaces in a 2d plane, much like an automatic vaccume. 
+#This way even if the space is not a basic closed shape, like a building, the robot will continue to map the space even if it has made a square.
